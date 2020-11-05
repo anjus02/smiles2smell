@@ -1,0 +1,2 @@
+# smiles2smell
+Smiles2smell predicts the smell associated with the chemical compounds using deep learning-based ensemble model. It takes SMILES notation of chemical compound as input and generate the physiochemical properties and molecular fingerprints (PPMF) and 2d-image (IMG). Both (PPMF and IMG) representations are used to predict the probable associated smell using ensemble of CNN+IMG and DNN+PPMF models. 
